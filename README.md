@@ -7,6 +7,6 @@
 
 3. Macroeconomic Analysis: Examine the correlation between macroeconomic factors, such as COVID-19, which have a direct impact on Pfizer's stock price. Additionally, the analysis will include the correlation between Pfizer and other pharmaceutical companies like Merck and Amgen.
 
-4. Volume Analysis: Investigate stock trading volumes and identify patterns linked to major events, such as earnings reports, that may influence price movements.
+4. Volume Analysis: Investigate stock trading volumes and identify patterns linked to major events, such as earnings reports, that may influence price movements and COVID-19 vaccine announcement. 
 
 5. Stock Price Prediction: Use historical data to predict future prices by applying technical indicators and leveraging the XGBoost model for enhanced performance.
