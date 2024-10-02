@@ -1,4 +1,4 @@
-### This project aims to analyze and predict Pfizer's stock price trends while providing actionable insights for individual investors and financial analysts. The goal is to achieve a high accuracy level, with a Mean Absolute Error (MAE) of less than 0.4.
+## This project aims to analyze and predict Pfizer's stock price trends while providing actionable insights for individual investors and financial analysts. The goal is to achieve a high accuracy level, with a Mean Absolute Error (MAE) of less than 0.4.
 
 ### Key components of the project include:
 1. Data Gathering: Collected stock prices using an API from Alpha to ensure accurate and up-to-date information for analysis. Additionally, gathered COVID-19 case data by year from a reliable source, such as the World Health Organization.
