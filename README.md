@@ -13,4 +13,4 @@ Examined the correlation between macroeconomic factors, such as COVID-19, which 
 Investigated stock trading volumes and identified patterns linked to major events, such as earnings reports, that may influence price movements, including COVID-19 vaccine announcements.
 
 ### Stock Price Prediction
-Used historical data to predict future prices and technical indicators by leveraging the XGBoost model, a powerful supervised machine learning model designed to work with large and complicated datasets. Additionally, evaluated the model's performance by visualizing the actual and predicted target prices over time and calculating the Mean Absolute Error.
+Used historical data to predict future prices and technical indicators by utilizing the XGBoost model, a powerful supervised machine learning model designed to work with large and complicated datasets. Additionally, evaluated the model's performance by visualizing the actual and predicted target prices over time and calculating the Mean Absolute Error.
