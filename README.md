@@ -1,4 +1,4 @@
-## This project aims to analyze and predict Pfizer's stock price trends, providing actionable insights for financial analysis.
+## 
 
 ### Data Gathering
 Collected stock prices using an API from Alpha to ensure accurate and up-to-date information for analysis. Additionally, gathered COVID-19 case data by year from a reliable source which is the World Health Organization.
