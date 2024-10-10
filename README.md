@@ -1,4 +1,5 @@
 ## Time Series Analysis and Forecasting of Pfizer Stock Price Trends
+![image](https://github.com/user-attachments/assets/af6e0f63-7304-479f-b9bf-55ba478f606d)
 
 ### Data Gathering
 Collected stock prices using an API from Alpha to ensure accurate and up-to-date information for analysis. Additionally, gathered COVID-19 case data by year from a reliable source which is the World Health Organization.
